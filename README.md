@@ -1,2 +1,1 @@
-# CursoIntroductorioJavascript
-Curso de Java de Henry
+Este proyecto es una prueba para subirlo a la terminal 
